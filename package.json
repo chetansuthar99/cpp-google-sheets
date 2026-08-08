@@ -1,0 +1,14 @@
+{
+  "name": "cpp-google-sheets",
+  "version": "0.1.0-alpha",
+  "description": "Chetan Portfolio Pro - Google Sheets portfolio management application",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^2.0.0",
+    "typescript": "^5.0.0"
+  }
+}
